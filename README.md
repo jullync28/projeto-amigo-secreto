@@ -23,4 +23,6 @@
 <h2>📄 Licença</h2>
 <p>Este projeto é um desafio feito pelo curso Iniciante em Programação - ONE </p>
 
-<p>Desenvolvido por Julia Canevaroli 🚀</p>
+<p>Desenvolvido por Julia Canevaroli 🚀</p> 
+
+Carai julia, cê que desenvolveu isso?
